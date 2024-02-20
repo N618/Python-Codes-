@@ -1,2 +1,2 @@
 # Python-Codes-
-All my code for Data Analysis
+This code is all about scrapping the data by using Beautiful Soup And Selenium from all the useful links that are needed for political insight gathering and creating a data frame that will get all the link titles and source names that create an Excel workbook and store all the data in a data frame in excel and then transformed it into pdf and sent it to the client so that they will get it to update daily fo that I hade also automate whole the process.
